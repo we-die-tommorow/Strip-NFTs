@@ -1,5 +1,6 @@
 # Strip-NFTs
 
+Simple HTML front end intergrated to Web3
 
 Powered By H9H Token
 Binding HipHop&Blockchain Technology
