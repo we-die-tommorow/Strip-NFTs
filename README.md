@@ -10,3 +10,5 @@ Connects to any wallet (Metamask TrustWallet ETC)
 Rarity is applied to all the NFTs
 
 The H29 token Powers the Whole Ecosystem
+
+Tradable only on trader joe
